@@ -1,0 +1,6 @@
+Spring Context: This is also known as the application context. Anything that is annotated or recognized by spring
+will be brought into the context. This will be like cached and available when called upon. We can actually ask the
+context for a reference to the object.
+
+
+
